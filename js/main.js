@@ -3,7 +3,7 @@ const input = document.querySelector(".top-banner input");
 const msg = document.querySelector(".top-banner .msg");
 const list = document.querySelector(".ajax-section .cities");
 
-const apiKey = "11b8ff63bbaf727af2e179a5d8287a4b";
+const apiKey = "[insert your openweathermap token]";
 
 form.addEventListener("submit", e => {
   e.preventDefault();
